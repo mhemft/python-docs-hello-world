@@ -32,4 +32,4 @@ jobs:
       with:
         app-name: 'mhe-auth-test'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_2396b499e04642ff91b2c9b5072566cf }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_cd08662b685c44d09e1c8e405c0aa54f }}
